@@ -124,26 +124,103 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 ## :arrow_down:  Synthetic Seismograms
 - :zero: :one: [Fomosto](https://pyrocko.org/docs/current/apps/fomosto/)
     `
-    Compute synthetic ans store seismograms.
+    Computing synthetic ans store seismograms.
     `
   
 - :zero: :two: [fk](http://www.eas.slu.edu/People/LZhu/home.html)
     `
-    Compute synthetic seismograms in horizontal layered medium.
+    Computing synthetic seismograms in horizontal layered medium.
     `
     
 - :zero: :three: [DSM](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/software/software.htm)
     `
-    Synthesize seismograms in homogeneous layers, transversely isotropic (TI), 
+    Synthesizing seismograms in homogeneous layers, transversely isotropic (TI), 
     spherically symmetric medium with Direct Solution Method (DSM).
     `
 - :zero: :four: [yaseis](https://seiscode.iris.washington.edu/projects/yaseis) 
     `
-    Compute synthetic seismograms inhomogeneous layers, transversely isotropic (TI), 
+    Computing synthetic seismograms inhomogeneous layers, transversely isotropic (TI), 
     spherically symmetric medium.
     `
     
 - :zero: :five: [Mineos](https://github.com/geodynamics/mineos)
     `
-    Compute synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes.
+    Computing synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes.
     `
+
+- :zero: :six: [SOFI2D](https://git.scc.kit.edu/GPIAG-Software/SOFI2D/)
+        `
+        Computing 2-D PSV wavefield in viscoelastic medium with finite difference method.
+        `
+        
+- :zero: :seven: [SOFI2D-sh](https://git.scc.kit.edu/GPIAG-Software/SOFI2D_sh)
+        `
+        Computing 2-D SH wavefield in viscoelastic medium with finite difference method.
+        `
+- :zero: :eight: [SOFI3D](https://git.scc.kit.edu/GPIAG-Software/SOFI3D)
+        `
+        Computing 3-D wavefield in viscoelastic medium with finite difference method.
+
+- :zero: :nine: [sw4] (https://github.com/geodynamics/sw4)
+        `
+         3-D seismic modeling with finite difference method.
+        `
+        
+- :one: :zero: [OpenSWPC](https://github.com/tktmyd/OpenSWPC)
+        `
+        2/3-D  seismic wave propagation modeling with finite difference method.
+        `
+        
+- :one: :one: [AxiSEM]()
+        `
+        AxiSEM is a parallel spectral-element method to solve 3D wave propagation 
+        in a sphere with axisymmetric or spherically symmetric visco-elastic, acoustic, anisotropic structures.
+        `
+
+- :one: :two: [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html)
+        `
+        NEXD: A SOFTWARE PACKAGE FOR HIGH ORDER SIMULATION OF SEISMIC WAVES 
+        USING THE NODAL DISCONTINUOUS GALERKIN METHOD.
+        `
+- :one: :three: [PRINCETON GEODYNAMICS SOFTWARES](https://geodynamics.org/cig/software/)
+
+*** 
+:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+
+## :arrow_down: Focal mechanism
+- :zero: :one: [gCAP](http://www.eas.slu.edu/People/LZhu/home.html)
+        `
+        Inversion of seismic source parameters with generalized Cut And Paste (gCAP) method.
+        `
+
+- :zero: :two: [pydmt](https://github.com/fabriziobernardi/pydmt)
+        `
+        Time Domain Moment Tensor Inversion,
+        `
+        
+- :zero: :three: [HASH](https://earthquake.usgs.gov/research/software/#HASH)
+        `
+        First motion polarity.
+        `
+        
+- :zero: :four: [focmec](https://seiscode.iris.washington.edu/projects/focmec)
+        `
+        Determine and display focal mechanism.
+        `
+        
+- :zero: :five: [WPhase](http://eost.u-strasbg.fr/wphase/)
+        `
+        W Phase source inversion.
+        Fast and reliable moment tensor estimation.
+        `
+        
+***
+:pencil_2: :pencil2: :pencil2: :pencil2: :pencil2:
+
+## :arrow_down: Earthquake location
+- :zero: :one: [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html)
+        `
+        HypoDD is a Fortran computer program package for relocating earthquakes with the double-difference (DD) algorithm.
+        
+ 
+ # to be continued
