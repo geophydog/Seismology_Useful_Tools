@@ -124,7 +124,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 ## :arrow_down:  Synthetic Seismograms
 - :zero: :one: [Fomosto](https://pyrocko.org/docs/current/apps/fomosto/)
     `
-    Computing synthetic ans store seismograms.
+    Computing synthetic and store seismograms.
     `
   
 - :zero: :two: [fk](http://www.eas.slu.edu/People/LZhu/home.html)
