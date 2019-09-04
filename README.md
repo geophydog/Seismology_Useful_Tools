@@ -17,7 +17,7 @@
 *** 
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
-## Convert Seismic Data
+## :arrow_down:  Convert Seismic Data
 - :zero: :one: [rdseed](http://ds.iris.edu/ds/nodes/dmc/forms/rdseed/)
     `
     SEED -> SAC.
@@ -38,7 +38,7 @@
 *** 
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
-## Travel time, ray parameter and ray path calculation
+## :arrow_down:  Travel time, ray parameter and ray path calculation
 - :zero: :one: [TauP](http://www.seis.sc.edu/taup/)
     `
     Travel time, incident, takeoff, ray parameter and ray path calculation and show.
@@ -72,7 +72,7 @@
 *** 
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
-## Visulization
+## :arrow_down:  Visulization
 - :zero: :one: [GMT](http://gmt.soest.hawaii.edu/)  
     `
     Almost the most usual mapping software.
@@ -121,7 +121,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 *** 
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
-## Synthetic Seismograms
+## :arrow_down:  Synthetic Seismograms
 - :zero: :one: [Fomosto](https://pyrocko.org/docs/current/apps/fomosto/)
     `
     Compute synthetic ans store seismograms.
