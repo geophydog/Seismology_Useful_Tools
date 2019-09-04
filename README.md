@@ -1,6 +1,7 @@
 # Seismology_Useful_Tools
 
-*** :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+*** 
+:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
 ## Seismic Data Processing
 - :zero: :one: [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac/)
@@ -13,7 +14,8 @@ Seismic data pre-processing and plot.
 Read data (SEED, MiniSEED, SAC, SEDY and so on.)
 `
 
-*** :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+*** 
+:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
 ## Convert Seismic Data
 - :zero: :one: [rdseed](http://ds.iris.edu/ds/nodes/dmc/forms/rdseed/)
@@ -33,7 +35,8 @@ SEDY -> SAC
 MiniSEED -> SAC
 `
 
-*** :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+*** 
+:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
 ## Travel time, ray parameter and ray path calculation
 - :zero: :one: [TauP](http://www.seis.sc.edu/taup/)
@@ -66,7 +69,8 @@ Calculating 3-D travel times by FAST MARCHING.
 Calculating travel times in homogeneous layers, transversely isotropic (TI), spherically symmetric medium.
 `
 
-*** :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+*** 
+:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
 ## Visulization
 - :zero: :one: [GMT](http://gmt.soest.hawaii.edu/)  
@@ -115,4 +119,5 @@ View seismic waveforms.
 `
 
 
-*** :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+*** 
+:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
