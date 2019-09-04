@@ -25,9 +25,9 @@
 
 - :zero: :two: [ObsPy](http://docs.obspy.org/tutorial/)
     `
-    SEED -> SAC
-    MiniSEED -> SAC
-    SEDY -> SAC
+    SEED -> SAC  
+    MiniSEED -> SAC  
+    SEDY -> SAC  
     `
 
 - :zero: :three: [mseed2sac](https://github.com/iris-edu/mseed2sac)
@@ -75,12 +75,12 @@
 ## :arrow_down:  Visulization
 - :zero: :one: [GMT](http://gmt.soest.hawaii.edu/)  
     `
-    Almost the most usual mapping software.
+    Almost the most usual mapping software in geophysical field.
     `
 
 - :zero: :two: [matplotlib](https://matplotlib.org/)  
     `
-    Not only in seismology, it's usefull to show beautiful figgures.
+    Not only in seismology, it's useful to plot beautiful figures.
     `
 
 - :zero: :three: [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac/)  
