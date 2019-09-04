@@ -161,7 +161,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         `
         Computing 3-D wavefield in viscoelastic medium with finite difference method.
 
-- :zero: :nine: [sw4] (https://github.com/geodynamics/sw4)
+- :zero: :nine: [sw4](https://github.com/geodynamics/sw4)
         `
          3-D seismic modeling with finite difference method.
         `
@@ -171,7 +171,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         2/3-D  seismic wave propagation modeling with finite difference method.
         `
         
-- :one: :one: [AxiSEM]()
+- :one: :one: [AxiSEM](https://github.com/geodynamics/axisem)
         `
         AxiSEM is a parallel spectral-element method to solve 3D wave propagation 
         in a sphere with axisymmetric or spherically symmetric visco-elastic, acoustic, anisotropic structures.
