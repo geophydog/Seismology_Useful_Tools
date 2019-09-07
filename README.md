@@ -1,7 +1,7 @@
 # Seismology_Useful_Tools
 
 *** 
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+:pencil2:
 
 ##  :arrow_down:  Seismic Data Processing
 - :zero: :one: [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac/)
@@ -15,7 +15,7 @@
     `
 
 *** 
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+:pencil2: :pencil2:
 
 ## :arrow_down:  Convert Seismic Data
 - :zero: :one: [rdseed](http://ds.iris.edu/ds/nodes/dmc/forms/rdseed/)
@@ -36,7 +36,7 @@
     `
 
 *** 
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+:pencil2: :pencil2: :pencil2:
 
 ## :arrow_down:  Travel time, ray parameter and ray path calculation
 - :zero: :one: [TauP](http://www.seis.sc.edu/taup/)
@@ -70,7 +70,7 @@
     `
 
 *** 
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+:pencil2: :pencil2: :pencil2: :pencil2:
 
 ## :arrow_down:  Visulization
 - :zero: :one: [GMT](http://gmt.soest.hawaii.edu/)  
@@ -185,7 +185,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 - :one: :three: [PRINCETON GEODYNAMICS SOFTWARES](https://geodynamics.org/cig/software/)
 
 *** 
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+:pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
 ## :arrow_down: Focal mechanism
 - :zero: :one: [gCAP](http://www.eas.slu.edu/People/LZhu/home.html)
@@ -215,7 +215,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         `
         
 ***
-:pencil_2: :pencil2: :pencil2: :pencil2: :pencil2:
+:pencil_2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
 ## :arrow_down: Earthquake location
 - :zero: :one: [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html)
