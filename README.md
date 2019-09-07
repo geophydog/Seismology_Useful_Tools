@@ -214,8 +214,8 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         Fast and reliable moment tensor estimation.
         `
         
-***
-:pencil_2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+***  
+:pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:  
 
 ## :arrow_down: Earthquake location
 - :zero: :one: [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html)
