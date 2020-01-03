@@ -108,17 +108,17 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
     A python library implementing ECHarts.
     `
 
-- :zero: :eight:[ObsPy](http://docs.obspy.org/tutorial/)  
+- :zero: :eight:[ObsPy](http://docs.obspy.org/tutorial/)    
     `
     Spectragram, beachball or seismic data processing.
     `
 
-- :zero: :nine: [Snuffler](https://pyrocko.org/docs/current/apps/snuffler/tutorial.html)
+- :zero: :nine: [Snuffler](https://pyrocko.org/docs/current/apps/snuffler/tutorial.html)  
     `
     View seismic waveforms.
     `
     
-- :one: :zero: [Desmos](https://www.desmos.com/)
+- :one: :zero: [Desmos](https://www.desmos.com/)    
     `
     Demo of graphs of functions.
     `
