@@ -117,6 +117,11 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
     `
     View seismic waveforms.
     `
+    
+- :one: :zero: [Desmos](https://www.desmos.com/)
+    `
+    Demo of graphs of functions.
+    `
 
 *** 
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
