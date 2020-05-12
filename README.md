@@ -231,7 +231,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 ***
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 ## Numerical computation
-- :zero: :two: [GSL](https://www.gnu.org/software/gsl/)
+- :zero: :one: [GSL](https://www.gnu.org/software/gsl/)
     `
     The GNU Scientific Library (GSL) is a numerical library implemented by C and C++.
     `
