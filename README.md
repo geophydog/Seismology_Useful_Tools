@@ -227,6 +227,13 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         `
         HypoDD is a Fortran computer program package for relocating earthquakes with the double-difference (DD) algorithm.
         `
+
+***
+:pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+- :zero: :two: [GSL](https://www.gnu.org/software/gsl/)
+    `
+    The GNU Scientific Library (GSL) is a numerical library implemented by C and C++.
+    `
         
  
  # to be continued
