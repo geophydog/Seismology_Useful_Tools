@@ -123,22 +123,28 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
     Demo of graphs of functions.
     `
     
-- :one: :one: [GeoGebra](https://www.geogebra.org/)
+- :one: :one: [GeoGebra](https://www.geogebra.org/)     
     `
-    Geometry Algebra, a amazing tool.
+    Geometry Algebra, an amazing tool.
     `
     
 - :one: :two: [Mathematica](https://www.wolfram.com/mathematica/)
     
-    `Data processing, visualization, numerical and symbolic computation.`
+    `
+    Data processing, visualization, numerical and symbolic computation.
+    `
     
 - :one: :three: [Obtaining colors](http://www.jiniannet.com/Page/allcolor)
 
+    `
     You can get these colors on line when you upload your picture
+    `
 
 - :one: :four: [Choosing colors](https://www.sioe.cn/yingyong/yanse-rgb-16/)
 
-    `There are many colors and you can choose them if necessary.`
+    `
+    There are many colors and you can choose them if necessary.
+    `
 
     
 
