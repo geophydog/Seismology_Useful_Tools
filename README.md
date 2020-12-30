@@ -1,6 +1,6 @@
-# Seismology_Useful_Tools
+# Useful Seismic Tools
 
-*** 
+***
 :pencil2:
 
 ##  :arrow_down:  Seismic Data Processing
@@ -14,7 +14,7 @@
     Read data (SEED, MiniSEED, SAC, SEDY and so on.)
     `
 
-*** 
+***
 :pencil2: :pencil2:
 
 ## :arrow_down:  Convert Seismic Data
@@ -35,7 +35,7 @@
     MiniSEED -> SAC
     `
 
-*** 
+***
 :pencil2: :pencil2: :pencil2:
 
 ## :arrow_down:  Travel time, ray parameter and ray path calculation
@@ -69,10 +69,10 @@
     Calculating travel times in homogeneous layers, transversely isotropic (TI), spherically symmetric medium.
     `
 
-*** 
+***
 :pencil2: :pencil2: :pencil2: :pencil2:
 
-## :arrow_down:  Visulization
+## :arrow_down:  Visualization
 - :zero: :one: [GMT](http://gmt.soest.hawaii.edu/)  
     `
     Almost the most usual mapping software in geophysical field.
@@ -127,8 +127,22 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
     `
     Geometry Algebra, a amazing tool.
     `
+    
+- :one: :two: [Mathematica](https://www.wolfram.com/mathematica/)
+    
+    `Data processing, visualization, numerical and symbolic computation.`
+    
+- :one: :two: [Obtaining colors](http://www.jiniannet.com/Page/allcolor)
 
-*** 
+    You can get these colors on line when you upload your picture
+
+- :one: :two: [Choosing colors](https://www.sioe.cn/yingyong/yanse-rgb-16/)
+
+    `There are many colors and you can choose them if necessary.`
+
+    
+
+***
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
 ## :arrow_down:  Synthetic Seismograms
@@ -162,25 +176,25 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         `
         Computing 2-D PSV wavefield in viscoelastic medium with finite difference method.
         `
-        
+    
 - :zero: :seven: [SOFI2D-sh](https://git.scc.kit.edu/GPIAG-Software/SOFI2D_sh)
         `
         Computing 2-D SH wavefield in viscoelastic medium with finite difference method.
         `
 - :zero: :eight: [SOFI3D](https://git.scc.kit.edu/GPIAG-Software/SOFI3D)
         `
-        Computing 3-D wavefield in viscoelastic medium with finite difference method.
+        Computing 3-D wave field in viscoelastic medium with finite difference method.
 
 - :zero: :nine: [sw4](https://github.com/geodynamics/sw4)
         `
          3-D seismic modeling with finite difference method.
         `
-        
+    
 - :one: :zero: [OpenSWPC](https://github.com/tktmyd/OpenSWPC)
         `
         2/3-D  seismic wave propagation modeling with finite difference method.
         `
-        
+    
 - :one: :one: [AxiSEM](https://github.com/geodynamics/axisem)
         `
         AxiSEM is a parallel spectral-element method to solve 3D wave propagation 
@@ -194,7 +208,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         `
 - :one: :three: [PRINCETON GEODYNAMICS SOFTWARES](https://geodynamics.org/cig/software/)
 
-*** 
+***
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
 
 ## :arrow_down: Focal mechanism
@@ -207,24 +221,24 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         `
         Time Domain Moment Tensor Inversion,
         `
-        
+    
 - :zero: :three: [HASH](https://earthquake.usgs.gov/research/software/#HASH)
         `
         First motion polarity.
         `
-        
+    
 - :zero: :four: [focmec](https://seiscode.iris.washington.edu/projects/focmec)
         `
         Determine and display focal mechanism.
         `
-        
+    
 - :zero: :five: [WPhase](http://eost.u-strasbg.fr/wphase/)
         `
         W Phase source inversion.
         Fast and reliable moment tensor estimation.
         `
         
-***  
+***
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:  
 
 ## :arrow_down: Earthquake location
@@ -242,10 +256,12 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
     `
         
 
-***     
+***
 :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:   
 ## SeisMan
-    `
-    [SeisMan](https://link.seisman.info/codes/)
-    `
+
+[SeisMan's blogs](https://blog.seisman.info/)
+
+
+
  # to be continued
