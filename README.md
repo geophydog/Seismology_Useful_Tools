@@ -132,11 +132,11 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
     
     `Data processing, visualization, numerical and symbolic computation.`
     
-- :one: :two: [Obtaining colors](http://www.jiniannet.com/Page/allcolor)
+- :one: :three: [Obtaining colors](http://www.jiniannet.com/Page/allcolor)
 
     You can get these colors on line when you upload your picture
 
-- :one: :two: [Choosing colors](https://www.sioe.cn/yingyong/yanse-rgb-16/)
+- :one: :four: [Choosing colors](https://www.sioe.cn/yingyong/yanse-rgb-16/)
 
     `There are many colors and you can choose them if necessary.`
 
