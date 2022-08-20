@@ -13,6 +13,10 @@
     `
     Read data (SEED, MiniSEED, SAC, SEDY and so on.)
     `
+- :zero: :three: [PyWEED](https://iris-edu.github.io/pyweed/)
+    `
+    Retrieve earthquake-based seismic data with interactive steps (Python version of JWEED).
+    `
 
 ***
 :pencil2: :pencil2:
