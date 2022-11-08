@@ -149,6 +149,11 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
     `
     There are many colors and you can choose them if necessary.
     `
+    
+- :one: :five: [PyVista](https://docs.pyvista.org/)
+    `
+    An awesome visualization tool for 3D shapes.
+    `
 
     
 
