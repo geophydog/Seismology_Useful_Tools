@@ -1,7 +1,7 @@
 # Useful Seismic Tools
 
 ***
-:pencil2:
+:pencil2: :pencil2: :pencil2:
 
 ##  :arrow_down:  Seismic Data Processing
 - :zero: :one: [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac/)
@@ -19,7 +19,7 @@
     `
 
 ***
-:pencil2: :pencil2:
+:pencil2: :pencil2: :pencil2:
 
 ## :arrow_down:  Convert Seismic Data
 - :zero: :one: [rdseed](http://ds.iris.edu/ds/nodes/dmc/forms/rdseed/)
@@ -73,8 +73,13 @@
     Calculating travel times in homogeneous layers, transversely isotropic (TI), spherically symmetric medium.
     `
 
+- :zero: :seven: [fteikpy](https://github.com/keurfonluu/fteikpy)
+  `
+  A Python library that computes accurate first arrival traveltimes in 2D and 3D heterogeneous isotropic velocity models. 
+  `
+
 ***
-:pencil2: :pencil2: :pencil2: :pencil2:
+:pencil2: :pencil2: :pencil2:
 
 ## :arrow_down:  Visualization
 - :zero: :one: [GMT](http://gmt.soest.hawaii.edu/)  
@@ -159,7 +164,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
     
 
 ***
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+:pencil2: :pencil2: :pencil2:
 
 ## :arrow_down:  Synthetic Seismograms
 - :zero: :one: [Fomosto](https://pyrocko.org/docs/current/apps/fomosto/)
@@ -225,8 +230,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 - :one: :three: [PRINCETON GEODYNAMICS SOFTWARES](https://geodynamics.org/cig/software/)
 
 ***
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
-
+:pencil2: :pencil2: :pencil2:
 ## :arrow_down: Focal mechanism
 - :zero: :one: [gCAP](http://www.eas.slu.edu/People/LZhu/home.html)
         `
@@ -255,7 +259,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         `
         
 ***
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:  
+:pencil2: :pencil2: :pencil2:
 
 ## :arrow_down: Earthquake location
 - :zero: :one: [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html)
@@ -264,7 +268,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         `
 
 ***
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:
+:pencil2: :pencil2: :pencil2:
 ## Numerical computation
 - :zero: :one: [GSL](https://www.gnu.org/software/gsl/)
     `
@@ -273,10 +277,39 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
         
 
 ***
-:pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2: :pencil2:   
+:pencil2: :pencil2: :pencil2:
 ## SeisMan
 
 [SeisMan's blogs](https://blog.seisman.info/)
+
+## Geophydog
+[Geophydog's blog](https://geophydog.cool)
+
+
+***
+:pencil2:  :pencil2: :pencil2:
+## Surface wave topics
+- :zero: :one: [disba](https://github.com/keurfonluu/disba)
+  `
+     A python library of computing synthetic dispersion curve from Computer Programs in Seismology (CPS) with numba.
+  `
+
+- :zero: :two: [pysurf96](https://github.com/miili/pysurf96)
+  `
+    A python library of surf96 from Computer programs in seismology for computing dispersion curves.
+  `
+
+- :zero: :three: [CC-FJpy](https://github.com/ColinLii/CC-FJpy)
+  `
+    A python library of extracting multimodal dispersion curves from ambient noise or event data.
+  `
+
+- :zero: :four: [DisbaTomo](https://github.com/pan3rock/DisbaTomo)
+  `
+    Dispersion curve inversion with the BFGS optimization algorithm.
+  `
+  
+  
 
 
 
