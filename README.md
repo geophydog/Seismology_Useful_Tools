@@ -269,7 +269,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 
 ***
 :pencil2: :pencil2: :pencil2:
-## :Ray tracing:
+## :arrow_down: Ray tracing
 - :zero: :one: [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm)
           `
           scikit-fmm is a Python extension module which implements the fast marching method.
