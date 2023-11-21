@@ -318,8 +318,8 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
   `
     Dispersion curve inversion with the BFGS optimization algorithm.
   `
-
-- :zero: :five: [PyGimli](https://www.pygimli.org/#)
+### General forward and inversion problems
+- :zero: :one: [PyGimli](https://www.pygimli.org/#)
   `
   Multi-method modelling and inversion in geophysics.
   `
