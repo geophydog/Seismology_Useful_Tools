@@ -277,7 +277,7 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 
 ***
 :pencil2: :pencil2: :pencil2:
-## Numerical computation
+## :arrow_down: Numerical computation
 - :zero: :one: [GSL](https://www.gnu.org/software/gsl/)
     `
     The GNU Scientific Library (GSL) is a numerical library implemented by C and C++.
@@ -286,17 +286,19 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 
 ***
 :pencil2: :pencil2: :pencil2:
-## SeisMan
+## :arrow_down: Blog notes
+### SeisMan
 
 [SeisMan's blogs](https://blog.seisman.info/)
 
-## Geophydog
+### Geophydog
 [Geophydog's blog](https://geophydog.cool)
 
 
 ***
 :pencil2:  :pencil2: :pencil2:
-## Surface wave topics
+## :arrow_down:  Forward modeling and inversion
+### Surface wave topics
 - :zero: :one: [disba](https://github.com/keurfonluu/disba)
   `
      A python library of computing synthetic dispersion curve from Computer Programs in Seismology (CPS) with numba.
@@ -315,6 +317,11 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
 - :zero: :four: [DisbaTomo](https://github.com/pan3rock/DisbaTomo)
   `
     Dispersion curve inversion with the BFGS optimization algorithm.
+  `
+
+- :zero: :five: [PyGimli](https://www.pygimli.org/#)
+  `
+  Multi-method modelling and inversion in geophysics.
   `
   
   
