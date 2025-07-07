@@ -160,6 +160,10 @@ Awesome figures, tables building created by BAIDU Inc and implemented by JavaScr
     `
     An awesome visualization tool for 3D shapes.
     `
+- :one: :six: [Basemap](https://matplotlib.org/basemap/stable/)
+  `
+    A Python library of plotting 2D data on geomaps.
+  `
 
     
 
